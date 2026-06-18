@@ -1,0 +1,5 @@
+zone_id,canopy_loss_pct,relative_f_b,relative_r_l,inspector_deployed,biomass_density
+Zone_1,18.23,10,0,0,82.33
+Zone_2,42.53,0,10,0,84.51
+Zone_3,36.02,-10,0,0,75.74
+Zone_4,73.41,0,10,1,5.58
